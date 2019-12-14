@@ -1,2 +1,2 @@
-# Python-for-sending-mail-
+# Python Send Mail
 #Using python to send email directly 
